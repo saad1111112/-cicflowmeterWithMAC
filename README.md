@@ -16,7 +16,7 @@ cicflowmeter/features/context/packet_flow_key.py
 Note: you can find cicflowmeter in the python folder.
 
 
-If you do not have the tool, you need first install it on your device Then replace the two files. 
+If you do not have the tool, you need first install it on your device then replace the two files. 
 
 
 To install the tool :
