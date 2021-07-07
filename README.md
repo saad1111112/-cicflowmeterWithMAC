@@ -11,3 +11,15 @@ cicflowmeter/features/context/packet_flow_key.py
 
 Note : you can find cicflowmeter in python folder.
 
+
+So first you need to install the tool ( cicflowmeter) 
+
+pip install cicflowmeter
+
+to use the tool : 
+
+cicflowmeter -f example.pcap -c flows.csv
+
+
+Thnaks
+Saad Alabdulsalam
