@@ -1,9 +1,7 @@
 # -cicflowmeterWithMAC
 These two files need to be replaced in your tool files to generate the mac column in the CSV file output. 
 
-# cicflowmeterWithMAC
 
-% Saad Alabdulsalam
 
 
 cicflowmeter tool generates NetFlow from the PCAP file; however, the CSV file output does not provide the MAC address of the source.
